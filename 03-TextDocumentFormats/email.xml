@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <figure>
+        <sender>Wiktoria</sender>
+        <recipient>John</recipient>
+        <subject>class </subject>
+        <body>message</body>
+    </figure>
+</email>

@@ -1,0 +1,36 @@
+{
+  "passengerName": "JOHN/DOE",
+  "reservationCode": "6EB716",
+  "ticketNumber": "0123456789012",
+  "train": {
+    "trainNumber": 189,
+    "serviceName": "NRO-WAS Express",
+    "carriage": "B",
+    "seat": "12A",
+    "class": "Business"
+  },
+  "journey": {
+    "date": "2021-09-08",
+    "departure": {
+      "stationCode": "NRO",
+      "stationName": "Norfolk, VA",
+      "time": "09:15"
+    },
+    "arrival": {
+      "stationCode": "WAS",
+      "stationName": "Washington Union Station",
+      "time": "12:40"
+    }
+  },
+  "fare": {
+    "price": 89.50,
+    "currency": "USD",
+    "fareType": "Flexible"
+  },
+  "isRefundable": false,
+  "baggageAllowance": 2,
+  "boardingGate": null,
+  "qrCodeData": "M1:ABCD1234... (QR/eTicket payload)",
+  "purchaseTimestamp": "2021-08-15T14:27:00-04:00"
+  
+}

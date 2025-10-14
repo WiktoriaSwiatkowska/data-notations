@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Levi Strauss & Co.",
+        "founded": 1853,
+        "headquarters": "San Francisco, California, USA",
+        "employees": 16600,
+        "products": [
+            "Denim Jeans",
+            "Casual Wear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Gucci",
+        "founded": 1921,
+        "headquarters": "Florence, Italy",
+        "employees": 20032,
+        "products": [
+            "Luxury Fashion",
+            "Leather Goods",
+            "Accessories"
+        ]
     }
 ]
